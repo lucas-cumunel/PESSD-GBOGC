@@ -1,0 +1,150 @@
+nom,role,sport,genre,ancien sportif,chaine
+nicolas geay,commentateur,cyclisme sur route/triathlon/VTT,H,non,FRTV
+laurent jalabert,consultant,cyclisme sur route,H,oui,FRTV
+marion rousse,consultant,cyclisme sur route,F,oui,FRTV
+jean-baptiste marteau,commentateur,equitation,H,non,FRTV
+virgine couperie-eiffel,consultant,equitation,F,oui,FRTV
+guillaume canet,consultant,equitation,H,oui,FRTV
+jeanne meyer,commentateur,escalade,F,non,FRTV
+christian choupin,commentateur,escalade/skate,H,non,FRTV
+charlotte durif,consultant,escalade,F,oui,FRTV
+nathanael de rincquesen,commentateur,escrime/golf,H,non,FRTV
+fabrice jeannet,consultant,escrime,H,oui,FRTV
+anne-lise touya,consultant,escrime,F,oui,FRTV
+celia moillard,consultant,escrime,F,non,FRTV
+astrid guyart,consultant,escrime,F,oui,FRTV
+fabien leveque,commentateur,football,H,non,FRTV
+stephane lippert,commentateur,football/hockey/volley,H,non,FRTV
+louise necib,consultant,football,F,oui,FRTV
+loic remy,consultant,football,H,oui,FRTV
+charlotte lorgere,consultant,football,F,oui,FRTV
+patricia meunier-lebouc,consultant,golf,F,oui,FRTV
+marie-christelle maury,commentateur,gymnastique,F,non,FRTV
+hamilton sabot,consultant,gymnastique,H,oui,FRTV
+kseniya moustafaeva,consultant,gymnastique,F,oui,FRTV
+anthony brulez,commentateur,halterophilie,H,non,FRTV
+gaelle nayo-ketchanke,consultant,halterophilie,F,oui,FRTV
+emmanuel roux,commentateur,handball,H,non,FRTV
+jerome fernandez,consultant,handball,H,oui,FRTV
+valerie nicolas,consultant,handball,F,oui,FRTV
+arnaud matteoli,commentateur,hockey,H,non,FRTV
+sophie llobet,consultant,hockey,F,oui,FRTV
+mathias dierckens,consultant,hockey,H,oui,FRTV
+rodolphe gaudin,commentateur,judo/lutte/taekwondo,H,non,FRTV
+emilie andreol,consultant,judo,F,oui,FRTV
+thierry vildary,commentateur,lutte/taekwondo,H,non,FRTV
+didier favori,consultant,lutte,H,oui,FRTV
+alexandre boyon,commentateur,natation,H,non,FRTV
+camille lacourt,consultant,natation,H,oui,FRTV
+laure manaudou,consultant,natation,F,oui,FRTV
+jeanne meyer,commentateur,natation artistique,F,non,FRTV
+virginie dedieu,consultant,natation artistique,F,oui,FRTV
+corinne bouilloud,commentateur,pentathlon,F,non,FRTV
+amelie caze,consultant,pentathlon,F,oui,FRTV
+claire vocquier-ficot,commentateur,plongeon/tir à l'arc,F,non,FRTV
+benjamin auffret,consultant,plongeon,H,oui,FRTV
+jean abeilhou,commentateur,rugby,H,non,FRTV
+vincent clerc,consultant,rugby,H,oui,FRTV
+greg poissonnier,consultant,skate,H,oui,FRTV
+maruki dury,commentateur,surf,H,non,FRTV
+justine dupont,consultant,surf,F,oui,FRTV
+gwladys epangue,consultant,taekwondo,F,oui,FRTV
+ines lagdiri-nastasi,commentateur,tennis,F,non,FRTV
+justine henin,consultant,tennis,F,oui,FRTV
+maxence regnault,commentateur,tennis de table,H,non,FRTV
+jean-philippe gatien,consultant,tennis de table,H,oui,FRTV
+guillaume papin,commentateur,tir,H,non,FRTV
+delphine reau,consultant,tir,F,oui,FRTV
+claude eymard,commentateur,tir à l'arc,H,non,FRTV
+pierre plihon,consultant,tir à l'arc,H,oui,FRTV
+jeanne meyer,commentateur,trampoline,F,non,FRTV
+lionel pioline,consultant,trampoline,H,oui,FRTV
+carole peon,consultant,triathlon,F,oui,FRTV
+gael robic,commentateur,voile,H,non,FRTV
+jonathan lobert,consultant,voile,H,oui,FRTV
+benoit durant,commentateur,volley,H,non,FRTV
+laurent tillie,consultant,volley,H,oui,FRTV
+victoria ravva,consultant,volley,F,oui,FRTV
+julien absalon,consultant,VTT,H,oui,FRTV
+patrice tillie,consultant,water polo,H,oui,FRTV
+lou counil,consultant,water polo,F,oui,FRTV
+stephane diagana,consultant,athletisme,H,oui,FRTV
+marys ewanje-epee,consultant,athletisme,F,oui,FRTV
+christelle daunay,consultant,athletisme,F,oui,FRTV
+christine arron,consultant,athletisme,F,oui,eurosport
+stephane caristan,consultant,athletisme,H,oui,eurosport
+yoann diniz,consultant,athletisme,H,oui,eurosport
+jean-baptiste protais,consultant,athletisme,H,oui,eurosport
+adrien hardy,consultant,aviron,H,oui,FRTV
+dominique basset,consultant,aviron,H,oui,eurosport
+brice leverdez,consultant,badminton,H,oui,FRTV
+lea palermo,consultant,badminton,F,oui,eurosport
+pape-philippe amougou,consultant,basket,H,oui,FRTV
+isabelle yacoubou,consultant,basket,F,oui,FRTV
+tony parker,consultant,basket,H,oui,FRTV
+endy miyem,consultant,basket,F,oui,eurosport
+frederic weis,consultant,basket,H,oui,eurosport
+sandra dijon,consultant,basket 3x3,F,oui,FRTV
+perrine le leuch,consultant,basket 3x3,F,oui,eurosport
+eva hamzaoui,consultant,beach-volley,F,oui,FRTV
+alexandra jupiter,consultant,beach-volley,F,oui,eurosport
+christian van hanja,consultant,bmx,H,oui,FRTV
+mickael clerte,consultant,bmx,H,oui,FRTV
+matthias dandois,consultant,bmx,H,oui,eurosport
+johan berthonneau,consultant,bmx,H,oui,eurosport
+karine chambonneau,consultant,bmx,F,oui,eurosport
+brahim asloum,consultant,boxe,H,oui,FRTV
+john dovi,consultant,boxe,H,oui,eurosport
+antoinette gomis,consultant,breaking,F,oui,FRTV
+sheyen gamboa,consultant,breaking,F,oui,eurosport
+quentin urban,consultant,canoe,H,oui,FRTV
+emilie fer,consultant,canoe,F,oui,FRTV
+gauthier klauss,consultant,canoe,H,oui,eurosport
+matthieu peche,consultant,canoe,H,oui,eurosport
+theo marecaux,consultant,canoe,H,oui,eurosport
+francois pervis,consultant,cyclisme sur piste,H,oui,FRTV
+arnaud tournant,consultant,cyclisme sur piste,H,oui,eurosport
+alain francqueville,consultant,equitation,H,oui,eurosport
+jean-marc nicolas,consultant,equitation,H,oui,eurosport
+matthieu dutray,consultant,escalade,H,oui,eurosport
+jacky durand,consultant,cyclisme sur route,H,oui,eurosport
+maureen nisima,consultant,escrime,F,oui,eurosport
+leonore perrus,consultant,escrime,F,oui,eurosport
+candice prevost,consultant,football,F,oui,eurosport
+lionel charbonnier,consultant,football,H,oui,eurosport
+cedric kante,consultant,football,H,oui,eurosport
+emilie le pennec,consultant,gymnastique,F,oui,eurosport
+elisabeth rachid,consultant,gymnastique,F,oui,eurosport
+fabrice magrin,consultant,halterophilie,H,oui,eurosport
+nodjialem myaro,consultant,handball,F,oui,eurosport
+amelie goudjo,consultant,handball,F,oui,eurosport
+thierry anti,consultant,handball,H,oui,eurosport
+lucie decosse,consultant,judo,F,oui,eurosport
+frederique jossinet,consultant,judo,F,oui,eurosport
+frederic lecanu,consultant,judo,H,oui,eurosport
+eric monnin,consultant,lutte,H,oui,eurosport
+jean michel ciceron,consultant,natation,H,oui,eurosport
+alain bernard,consultant,natation,H,oui,eurosport
+laura auge,consultant,natation artistique,F,oui,eurosport
+coralyne lemaire,consultant,natation artistique,F,oui,eurosport
+adele stern,consultant,pentathlon,F,oui,eurosport
+julie vanderschmitt,consultant,plongeon,F,oui,eurosport
+marie sempere,consultant,rugby,F,oui,eurosport
+shani bru,consultant,skate,F,oui,eurosport
+fabien le toullec,consultant,skate,H,oui,eurosport
+emmanuelle joly,consultant,surf,F,oui,eurosport
+ludovic vo,consultant,taekwondo,H,oui,eurosport
+camille pin,consultant,tennis,F,oui,eurosport
+jean-paul loth,consultant,tennis,H,oui,eurosport
+eric deblicker,consultant,tennis,H,oui,eurosport
+christophe legout,consultant,tennis de table,H,oui,eurosport
+franck dumoulin,consultant,tir,H,oui,eurosport
+audrey adiceom,consultant,tir à l'arc,F,oui,eurosport
+virginie masse,consultant,trampoline,F,oui,eurosport
+tom lecomte,consultant,triathlon,H,oui,eurosport
+julien d'ortoli,consultant,voile,H,oui,eurosport
+louis giard,consultant,voile,H,oui,eurosport
+jelena lozancic,consultant,volley,F,oui,eurosport
+laurent chambertin,consultant,volley,H,oui,eurosport
+ludovic dubau,consultant,vtt,H,oui,eurosport
+alexandre pasteur,commentateur,athletisme,H,non,FRTV
