@@ -1,15 +1,12 @@
 import yt_dlp
 import re
-import os
-# import s3fs
 
-# If using s3
-# fs = s3fs.S3FileSystem()
 
-ftv_url = "https://www.youtube.com/playlist?list=PLYXOi0ZKJEKKEWl_jgqTTXN9mzvcj4oP0" #FTV
-esp_url = "https://www.youtube.com/playlist?list=PLMvsN4LH5cSFtlag_bbqDc76pyetG_4Ol" #ESP
+def playlist_scraper(url):
+    """
+    scrap the videos of the url youtube playlist
+    """
 
-def playlist_scraper (url) : 
     ydl_opts = {'quiet': True, 'extract_flat': True}
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         info = ydl.extract_info(url, download=False)
@@ -26,9 +23,9 @@ def playlist_scraper (url) :
 
         # Safe title for filenames
         safe_title = re.sub(r'[^a-zA-Z0-9_\- ]', '', title)[:100].strip()
-        
+
         local_path = f"/tmp/{safe_title}.webm"
-        
+
         # s3_path = "path"
 
         ydl_opts = {
@@ -46,6 +43,17 @@ def playlist_scraper (url) :
 
         # Delete local temp file
         # os.remove(local_path)
+
+
+# import os
+# import s3fs
+
+# If using s3
+# fs = s3fs.S3FileSystem()
+
+ftv_url = "https://www.youtube.com/playlist?list=PLYXOi0ZKJEKKEWl_jgqTTXN9mzvcj4oP0"  # FTV
+esp_url = "https://www.youtube.com/playlist?list=PLMvsN4LH5cSFtlag_bbqDc76pyetG_4Ol"  # ESP
+
 
 playlist_scraper(ftv_url)
 playlist_scraper(esp_url)
