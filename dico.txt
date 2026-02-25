@@ -1,0 +1,187 @@
+axel
+double axel
+triple axel
+quadruple axel
+lutz
+salchow
+boucle piquée
+boucle
+flip
+toe loop
+euler
+pirouette combinée
+pirouette camel
+pirouette assise
+pirouette Biellmann
+spirale
+séquence de pas
+twizzle
+porté groupé
+porté lasso
+porté étoile
+death spiral
+pattern dance
+short program
+free skate
+kiss and cry
+ISU judging system
+IJS
+triple twist
+quad twist
+throw jump
+throw salchow
+throw lutz
+synchronised twizzle
+
+klister
+fartlek
+double poussée
+pas alternatif
+pas de patineur
+pas tournant
+schuss
+télémark
+zone de poussée
+zone de retenue
+skiathlon
+mass start
+poursuite
+sprint libre
+sprint classique
+relais mixte
+boucle de pénalité
+pas de tir couché
+pas de tir debout
+cible rabattable
+carabine Anschütz
+
+k-point
+HS
+large hill
+normal hill
+vol plané
+télémark landing
+wind compensation
+gate factor
+style points
+inrun
+outrun
+wax cabin
+
+super-G
+géant
+slalom parallèle
+slalom nocturne
+combiné alpin
+DNF
+DNS
+DSQ
+porte banane
+tracé
+carre intérieure
+carre extérieure
+planté de bâton
+schuss final
+
+halfpipe
+slopestyle
+big air
+frontside
+backside
+switch
+cab
+cork
+double cork
+triple cork
+rodeo
+misty
+bio
+grab mute
+grab indy
+grab stalefish
+grab japan
+tail grab
+nose grab
+butter
+wallride
+rail
+box
+kicker
+knuckle
+hip
+spine
+revert
+
+aerials
+back full
+double full
+full full
+rudy
+layout
+pike
+triple somersault
+quadruple somersault
+
+ski cross
+photo-finish
+false start
+
+bobsleigh
+heat
+push start
+kreisel
+labyrinth
+Omega timing
+skeleton
+luge
+start handle
+finish outrun
+G-force
+steering runner
+
+power play
+penalty kill
+icing
+offside
+hat trick
+slot
+blue line
+red line
+crease
+five-hole
+butterfly
+poke check
+body check
+boarding
+cross-checking
+tripping
+slapshot
+wrist shot
+backhand
+one-timer
+
+curling
+house
+button
+tee line
+hog line
+hack
+peel
+take-out
+draw
+freeze
+guard
+hammer
+blank end
+split time
+sweep
+
+short track
+long track
+apex
+crossover
+drafting
+false start
+photo-finish
+lap counter
+relay exchange
