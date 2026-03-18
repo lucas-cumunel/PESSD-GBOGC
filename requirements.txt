@@ -1,9 +1,9 @@
 s3fs
 pandas
-torch
-torchvision
-torchaudio
-whisper-openai
-InaSpeechSegmenter
-pyannote.audio
---upgrade transformers
+torch==2.10.0
+torchvision=0.25.0
+torchaudio=2.10.0
+whisper-openai==1.0.0
+InaSpeechSegmenter==0.8.0
+pyannote.audio==4.0.4
+transformers==5.3.0
