@@ -1,2 +1,9 @@
-gdown
-yt_dlp
+s3fs
+pandas
+torch
+torchvision
+torchaudio
+whisper-openai
+InaSpeechSegmenter
+pyannote.audio
+--upgrade transformers
