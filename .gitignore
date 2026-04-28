@@ -1,5 +1,5 @@
 *.webm
 *.zip
 *.wav
-data/*.csv
+data
 *.npy
