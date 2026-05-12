@@ -83,6 +83,8 @@ topic_modeling.ipynb → dictionnaire.ipynb
 - **Volume** : ~60 h d'audio → ~44 000 phrases
 - **Métadonnées** : genre du journaliste, genre de l'athlète commenté, sport, épreuve
 
+Pour plus de détails sur le corpus, voir l'[annexe](Tables_et_figures.pdf).
+
 ### Approche bottom-up : BERTopic
 
 1. **Embeddings** : `dangvantuan/sentence-camembert-base` (CamemBERT fine-tuné similarité sémantique)
