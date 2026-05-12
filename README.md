@@ -175,9 +175,3 @@ Le thème le plus fréquent est **résultats & enjeux** (17,7 % des phrases), su
 - Syaputri et al. (2024) — encouragement, analytique, coopération
 - De Acutis et al. (2024) — effets des politiques de mixité
 
-
----
-
-## Remerciements
-
-Travail réalisé dans le cadre d'un projet collectif coordonné par **Roland Rathelot**. Encadrement par **Ivaylo Petev**.
