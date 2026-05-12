@@ -83,7 +83,7 @@ topic_modeling.ipynb → dictionnaire.ipynb
 - **Volume** : ~60 h d'audio → ~44 000 phrases
 - **Métadonnées** : genre du journaliste, genre de l'athlète commenté, sport, épreuve
 
-Pour plus de détails sur le corpus, voir l'[annexe](Tables_et_figures.pdf).
+Pour plus de détails sur le corpus, voir l'[annexe](output/Tables_et_figures.pdf).
 
 ### Approche bottom-up : BERTopic
 
@@ -131,7 +131,7 @@ Deux métriques calculées par thème et par phrase :
 
 Le thème le plus fréquent est **résultats & enjeux** (17,7 % des phrases), suivi de l'encouragement (10,0 %), du discours analytique (9,2 %) et de la coopération (7,1 %). À l'inverse, **l'apparence physique est marginale (1,0 %)**, rupture nette avec la littérature antérieure sur la presse écrite. L'essentiel du corpus est composé de thèmes liés directement à l'action sportive.
 
-![](stables_plot.png)
+![](output/stables_plot.png)
 
 ### H1 — Genre de l'athlète
 
@@ -141,7 +141,7 @@ Le thème le plus fréquent est **résultats & enjeux** (17,7 % des phrases), su
 - La **vie personnelle** est significativement surreprésentée pour les athlètes féminines (cohérent avec la littérature).
 - La **performance & héroïsme** et les **résultats & enjeux** sont significativement surreprésentés pour les athlètes masculins.
 
-![](athletes_plot.png)
+![](ouput/athletes_plot.png)
 
 ### H2 — Genre du journaliste
 
@@ -150,7 +150,7 @@ Le thème le plus fréquent est **résultats & enjeux** (17,7 % des phrases), su
 - Les commentateurs masculins surreprésentent significativement la **performance**, les **résultats**, et le **discours analytique**.
 - L'**encouragement** est, contre-intuitivement, davantage mobilisé par les commentateurs masculins.
 
-![](commentators_plot.png)
+![](output/commentators_plot.png)
 
 ### Variations par sport
 
